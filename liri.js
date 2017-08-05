@@ -63,10 +63,26 @@ function doSomething() {
       console.log("heyyyy");
       tweeter();
       break;
-
-      default:
+  case "Spotify Song Search": 
+      console.log("heyyyyoo");
+      spotify();
+      break;
+  case "Movie Search": 
+      console.log("heyyyyheyy");
+      movie();
+      break;
+  case "Ask for Help":
+      console.log("heyyyyhelp");
+      help();
+      break;        
+  case "Surprise Me":
+      console.log("heyyyysurprise");
+      doWhatever();
+      break;
+  default:
       console.log("oops");
       break;
+
   }
   }; 
 doSomething();      
@@ -104,37 +120,91 @@ function tweeter() {
   }); //end feed
 } 
         
-        // if (answers.value === "Spotify Song Search") {
-        //     console.log(colors.red(`Great! What song would you like me to find?`));
-        //     spotify();
-        // }
-        // else if (answers.value === "Movie Search") {
-        //     console.log(colors.yellow(`Great! What movie would you like me to find?`));
-        //     movie();
-        // }
-        // if (b[0] === 'Twitter Search' ) {
-            
-            //         tweeter();
-            // }
-        // else if (answers.value === "Surprise Me") {
-        //     console.log(colors.blue(`Alright, here's something cool: `));
-        //     doWhatever();
-        // }
-        // else if (answers.value === "Ask for Help") {
-        //     console.log(colors.red(`Sorry you're confused. Let me help!`));
-        //     help();
-        // }
-        // else {
-        //     console.log(colors.red(`Invalid Entry`));
-        // }
-
 
 var spotify = function() {
 
 }
 
-var movie = function() {
+function movie() {
+    var movieKey = keys.omdbKey.key;
+    var moviePrompt = {
+        name: "moviefind",
+        message: colors.rainbow("What movie would you like me to search?")
+    };
 
+    inquirer.prompt(moviePrompt).then(function(answers) {
+              var c = [];
+              var d = [];
+            for(var i in answers) {
+            if(answers.hasOwnProperty(i)){
+                c.push(i);
+                d.push(answers[i]);
+  }
+ console.log(c);
+ console.log(d);
+ var searchMove = d[0];
+
+    
+    var movieName = "";
+if (searchMove === undefined) {
+		movieName = "Mr. Nobody";
+	} else {
+	    movieName = searchMove
+	};    
+
+    var queryUrl = `http://www.omdbapi.com/?t=${movieName}&y=&plot=short&apikey=${movieKey}`;
+
+    console.log(queryUrl);
+    console.log(movieName);
+    request(queryUrl, function(error, response, body) {
+
+  // If the request is successful
+  if (!error && response.statusCode === 200) {
+    
+      var data = JSON.parse(body);
+      var title = data.Title;
+      var year = data.Year;
+      var rated = data.Rated;
+      var ratingLength = data.Ratings.length;
+      if (ratingLength === 0) {
+        var imdbRating = "Sorry this movie is yet to be rated."
+      } else {
+        var imdbRating = data.Ratings[0].Value;
+      }
+     if (ratingLength > 1) {
+        var tomatoRating = data.Ratings[1].Value;
+      } else {
+      var tomatoRating = "No one cared enough to rate this movie.";
+      }
+      var country = data.Country;
+      var language = data.Language;
+      var plot = data.Plot;
+      var actors = data.Actors;
+
+      //console.log info
+      console.log(colors.rainbow("Title: " + title));
+      console.log(colors.red("Year: " + year));
+      console.log(colors.red("Rated: " + rated));
+      console.log(colors.yellow("Country: " + country));
+      console.log(colors.yellow("Language " + language));
+      console.log(colors.green("Plot: " + plot));
+      console.log(colors.green("Imdb Rating: " + imdbRating));
+      console.log(colors.blue("Tomato Rating: " + tomatoRating));
+      console.log(colors.blue("Actors: " + actors));
+     //append to text file
+      fs.appendFileSync("log.txt", "\n");
+      fs.appendFileSync("log.txt", "\n" + "Title: " + title + "\n");
+      fs.appendFileSync("log.txt", "\n" + "Rated: " + rated + "\n");
+      fs.appendFileSync("log.txt", "\n" + "Country: " + country + "\nc");
+      fs.appendFileSync("log.txt", "\n" + "Language: " + language + "\n");
+      fs.appendFileSync("log.txt", "\n" + "Plot: " + plot + "\n");
+      fs.appendFileSync("log.txt", "\n" + "Imdb Rating: " + imdbRating + "\n");
+      fs.appendFileSync("log.txt", "\n" + "Tomato Rating: " + tomatoRating + "\n");
+      fs.appendFileSync("log.txt", "\n" + "Actors: " + actors + "\n");
+  }
+});
+}
+    })
 }
 
 function doWhatever() {
@@ -144,7 +214,6 @@ function doWhatever() {
 function help() {
     
 }
-
 
 
 

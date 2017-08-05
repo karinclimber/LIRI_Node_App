@@ -58,3 +58,47 @@ Tweet: TWEETER 2
 Tweeted on: Thu Aug 03 23:05:43 +0000 2017
 Tweet: NODE IS AWESOME
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:16:01 +0000 2017
+Tweet: TWEEEEEEEEEEEEETTTTTTEEERRRRR
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:42 +0000 2017
+Tweet: TWEEEEETER
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:33 +0000 2017
+Tweet: HEYOOO!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:28 +0000 2017
+Tweet: TWEETS! TWEETS! TWEETS!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:15 +0000 2017
+Tweet: I like when TweeterBot works!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:02 +0000 2017
+Tweet: THIS IS EXCITING!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:14:53 +0000 2017
+Tweet: CODING IS FUN!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:05:55 +0000 2017
+Tweet: TWEETER 2
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:05:43 +0000 2017
+Tweet: NODE IS AWESOME
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+
+Title: Vernon, Florida
+
+Rated: NOT RATED
+
+Country: USA, West Germany
+c
+Language: English
+
+Plot: Early Errol Morris documentary intersplices random chatter he captured on film of the genuinely eccentric residents of Vernon, Florida. A few examples? The preacher giving a sermon on the ...
+
+Imdb Rating: 7.2/10
+
+Tomato Rating: 100%
+
+Actors: Albert Bitterling, Roscoe Collins, George Harris, Joe Payne
