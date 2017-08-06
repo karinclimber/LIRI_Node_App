@@ -121,9 +121,61 @@ function tweeter() {
 } 
         
 
-var spotify = function() {
+function spotify() {
+    var songPrompt = {
+        name: "songfind",
+        message: colors.rainbow("What song would you like me to search?")
+    };
 
+    inquirer.prompt(songPrompt).then(function(answers) {
+              var e = [];
+              var f = [];
+            for(var i in answers) {
+            if(answers.hasOwnProperty(i)){
+                e.push(i);
+                f.push(answers[i]);
+  }
+ console.log(e);
+ console.log(f);
+ var searchSong = f[0];
+
+    
+    var songName = "";
+
+if (searchSong === "") {
+		songName = "The Sign";
+	} else {
+	    songName = searchSong;
+    };    
+    
+ 
+    var songParams = { type: 'track', query: `${songName}` };
+
+    spotKey.search(songParams, function(error, data) {
+
+        if (error) { 
+            console.log("I am error: " + error); 
+        }
+
+        for (i = 0 ; i < 20; i++){
+            var albumName = data.tracks.items[i].album.name;
+            var songName = data.tracks.items[i].name;
+            var artistName = data.tracks.items[i].artists[0].name;
+            var previewUrl = data.tracks.items[i].preview_url;
+            
+            if (previewUrl === null){
+                previewUrl = "N/A";
+            }
+            console.log(`Artist(s): ${artistName}`);
+            console.log(`Song Name: ${songName}`);
+            console.log(`Preview: ${previewUrl}`);
+            console.log(`Album: ${albumName}`);
+            console.log(colors.rainbow(`-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+`));
+            
+        }
+	});
 }
+})
 
 function movie() {
     var movieKey = keys.omdbKey.key;
@@ -208,13 +260,32 @@ if (searchMove === undefined) {
 }
 
 function doWhatever() {
-
+fs.readFile("random.txt", "utf-8", function(err, data) {
+    if (err){
+            console.log(`Read File Error: ${error}`);
+        } else {
+            var randomArr = data.split(",");
+              var g = [];
+              var h = [];
+            for(var i in randomArr) {
+            if(answers.hasOwnProperty(i)){
+                g.push(i);
+                h.push(answers[i]);
+  }
+ console.log(g);
+ console.log(h);
+ var searchSongRandom = h[0];
+            }
+            var randomArr = data.split(",");
+            spotify();
+        }
+})
 }
 
 function help() {
     
 }
 
-
+}
 
 initialize();
