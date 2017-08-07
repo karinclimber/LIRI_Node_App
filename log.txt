@@ -129,3 +129,186 @@ Tweet: TWEETER 2
 Tweeted on: Thu Aug 03 23:05:43 +0000 2017
 Tweet: NODE IS AWESOME
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:16:01 +0000 2017
+Tweet: TWEEEEEEEEEEEEETTTTTTEEERRRRR
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:42 +0000 2017
+Tweet: TWEEEEETER
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:33 +0000 2017
+Tweet: HEYOOO!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:28 +0000 2017
+Tweet: TWEETS! TWEETS! TWEETS!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:15 +0000 2017
+Tweet: I like when TweeterBot works!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:02 +0000 2017
+Tweet: THIS IS EXCITING!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:14:53 +0000 2017
+Tweet: CODING IS FUN!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:05:55 +0000 2017
+Tweet: TWEETER 2
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:05:43 +0000 2017
+Tweet: NODE IS AWESOME
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+
+Title: Titanic
+
+Rated: PG-13
+
+Country: USA
+c
+Language: English, Swedish
+
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+Imdb Rating: 7.7/10
+
+Tomato Rating: 88%
+
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+
+Title: Mr. Nobody
+
+Rated: R
+
+Country: Belgium, Germany, Canada, France, USA, UK
+c
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Imdb Rating: 7.9/10
+
+Tomato Rating: 64%
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Tweeted on: Thu Aug 03 23:16:01 +0000 2017
+Tweet: TWEEEEEEEEEEEEETTTTTTEEERRRRR
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:42 +0000 2017
+Tweet: TWEEEEETER
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:33 +0000 2017
+Tweet: HEYOOO!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:28 +0000 2017
+Tweet: TWEETS! TWEETS! TWEETS!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:15 +0000 2017
+Tweet: I like when TweeterBot works!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:02 +0000 2017
+Tweet: THIS IS EXCITING!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:14:53 +0000 2017
+Tweet: CODING IS FUN!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:05:55 +0000 2017
+Tweet: TWEETER 2
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:05:43 +0000 2017
+Tweet: NODE IS AWESOME
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+
+Title: Mr. Nobody
+
+Rated: R
+
+Country: Belgium, Germany, Canada, France, USA, UK
+c
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Imdb Rating: 7.9/10
+
+Tomato Rating: 64%
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+Title: Mr. Nobody
+
+Rated: R
+
+Country: Belgium, Germany, Canada, France, USA, UK
+c
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Imdb Rating: 7.9/10
+
+Tomato Rating: 64%
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Tweeted on: Thu Aug 03 23:16:01 +0000 2017
+Tweet: TWEEEEEEEEEEEEETTTTTTEEERRRRR
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:42 +0000 2017
+Tweet: TWEEEEETER
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:33 +0000 2017
+Tweet: HEYOOO!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:28 +0000 2017
+Tweet: TWEETS! TWEETS! TWEETS!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:15 +0000 2017
+Tweet: I like when TweeterBot works!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:15:02 +0000 2017
+Tweet: THIS IS EXCITING!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:14:53 +0000 2017
+Tweet: CODING IS FUN!
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:05:55 +0000 2017
+Tweet: TWEETER 2
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Tweeted on: Thu Aug 03 23:05:43 +0000 2017
+Tweet: NODE IS AWESOME
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+
+Title: Mr. Nobody
+
+Rated: R
+
+Country: Belgium, Germany, Canada, France, USA, UK
+c
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Imdb Rating: 7.9/10
+
+Tomato Rating: 64%
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+Title: Mr. Nobody
+
+Rated: R
+
+Country: Belgium, Germany, Canada, France, USA, UK
+c
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Imdb Rating: 7.9/10
+
+Tomato Rating: 64%
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
